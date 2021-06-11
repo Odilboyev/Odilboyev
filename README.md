@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samandar</h1>
+<h1 align="center">Hi 👋, I'm Samandar Odilboyev </h1>
+
 - 🌱 I’m currently learning **React.js and Vue.js**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
@@ -14,8 +15,12 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+![Odilboyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=odilboyev&theme=great-gatsby&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odilboyev&show_icons=true&locale=en&layout=compact" alt="odilboyev" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilboyev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odilboyev&show_icons=true&locale=en" alt="odilboyev" /></p>
+
+
+
 
