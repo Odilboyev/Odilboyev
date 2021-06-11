@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samandar Odilboev</h1>
 - 🌱 I’m currently learning **React.js and Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Odilboyev?tab=repositories](repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
 - 📫 How to reach me **t.me/webius_dev**
 
