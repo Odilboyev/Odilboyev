@@ -24,8 +24,8 @@
   <a href="https://google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="git" width="40" height="40"/> </a> 
  
 </p>
-  
-![Odilboyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=odilboyev&theme=great-gatsby&show_icons=true)
+
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilboyev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
