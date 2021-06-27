@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samandar Odilboyev </h1>
+<h1 align="center">Hi 👋, I'm Samandar </h1>
 
 - 🌱 I’m currently learning **React.js and Vue.js**
 
