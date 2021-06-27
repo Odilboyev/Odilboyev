@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Samandar </h1>
 
-- 🌱 I’m currently learning **React.js and Vue.js**
+- 👨🏽‍💻 I’m currently student at PDP Academy;
+- 🌱 I’m currently learning Advanced JavaScript;
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
-- 📫 How to reach me : **[Telegram link](https://t.me/webius_dev)**
-
+- <h2> 📫 Connect with me: </h2>
+- 
+<p>
+<a href="https://t.me/webius_dev" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="https://webiusdev@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
