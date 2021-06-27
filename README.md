@@ -6,7 +6,6 @@
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
 - <h2> 📫 Connect with me: </h2>
-- 
 <p>
 <a href="https://t.me/webius_dev" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
 <a href="https://webiusdev@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
