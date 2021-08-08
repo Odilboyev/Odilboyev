@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samandar </h1>
 
 - 👨🏽‍💻 I’m currently student at PDP Academy in Tashkent;
-- 🌱 I’m currently learning React.js;
+- 🌱 I’m learning Redux nowadays;
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
