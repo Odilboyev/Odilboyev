@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samandar </h1>
 
-- 🎓 I’m currently student at PDP Academy in Tashkent;
-- 🌱 I’m learning Next.js nowadays;
+- 🌱 I’m practicing on React nowadays;
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
