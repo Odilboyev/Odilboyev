@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samandar </h1>
 
-- 🌱 I’m practicing on React nowadays;
+- 🌱 I’m currently working as mentor at IT-center;
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
