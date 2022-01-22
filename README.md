@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samandar </h1>
-
+- 🐍Currently learning Python (Django)
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Odilboyev?tab=repositories)
 
 - <h2> 📫 Connect with me: </h2>
