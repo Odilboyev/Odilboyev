@@ -2,7 +2,7 @@
 
 - 📊 Nowadays, I'm learning Data Science and ML
 
-- 👨‍💻 All of my projects are available at [my telegram channel](https://t.me/webius_portfolio){:target="_blank"}
+- 👨‍💻 All of my projects are available at [my telegram channel](https://t.me/webius_portfolio)
 
 - <h2> 📫 Connect with me: </h2>
 <p>
