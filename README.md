@@ -52,4 +52,3 @@
 
 ## ⚜ Webius' stats:
 <a href="https://app.daily.dev/webius"><img src="https://api.daily.dev/devcards/16b2875896a64b6b953c757ec934d0d5.png?r=lkt" width="400" alt="Samandar Odilboyev's Dev Card"/></a> <br> <br>
-![Webius' Github Stats](https://github-readme-stats.vercel.app/api?username=odilboyev&]&theme=dark&show_icons=true)
