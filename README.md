@@ -8,8 +8,8 @@
 
 <h2> I'm a Software Engineer from Uzbekistan. </h2>
 <br>
- - 🔭 Currently working as a <b> freelancer </b><br>
-    - 🌱 Currently preparing for <b> IElTS Exam </b><br>
+ - 🔭 Currently <b> open to work </b><br>
+    - 🌱 Currently preparing for <b> IELTS Exam </b><br>
     - 💬 Feel free to give any question related to <b>IT</b>  <br>
     - ✌ My website: <a href="https://webius.vercel.app/">webius.me</a>
 <!-- - 🤝 Looking to collaborate on team of NextJS, ReactJS, ... <br> -->
