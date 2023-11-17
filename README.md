@@ -10,7 +10,7 @@
 <br>
  - 🔭 Self employed </b><br>
     - 🌱 Currently preparing for <b> SAT Exam </b><br>
-    - 💬 Feel free to give any question related to <b>IT</b>  <br>
+    - 💬 Feel free to give any question related to <b>Frontend Development</b>  <br>
     - ✌ My website: <a href="https://webius.vercel.app/">webius.me</a>
 <!-- - 🤝 Looking to collaborate on team of NextJS, ReactJS, ... <br> -->
 
