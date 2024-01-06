@@ -9,7 +9,7 @@
 <h2> I'm a Software Engineer from Uzbekistan. </h2>
 <br>
  - 🔭 Self employed </b><br>
-    - 🌱 Currently <b> self-employed </b><br>
+<!--     - 🌱 Currently <b> self-employed </b><br> -->
     - 💬 Feel free to give any question related to <b>Frontend Development</b>  <br>
     - ✌ My website: <a href="https://webius.vercel.app/">webius.me</a>
 <!-- - 🤝 Looking to collaborate on team of NextJS, ReactJS, ... <br> -->
