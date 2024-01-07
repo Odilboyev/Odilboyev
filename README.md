@@ -10,8 +10,7 @@
 <br>
  - 🔭 Self employed </b><br>
 <!--     - 🌱 Currently <b> self-employed </b><br> -->
-    - 💬 Feel free to give any question related to <b>Frontend Development</b>  <br>
-    - ✌ My website: <a href="https://webius.vercel.app/">webius.me</a>
+    - ✌ See my latest works on my <a href="https://t.me/webius_portfolio">portfolio</a>
 <!-- - 🤝 Looking to collaborate on team of NextJS, ReactJS, ... <br> -->
 
 <br>
