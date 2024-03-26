@@ -47,7 +47,7 @@
 
 [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/webius)
 [<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/webius_dev)
-[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](mailto:webiusdev@gmail.com)<br><br>
+[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](mailto:mailto@samandar.us)<br><br>
 
 ## ⚜ Webius' stats:
 <a href="https://app.daily.dev/webius"><img src="https://api.daily.dev/devcards/16b2875896a64b6b953c757ec934d0d5.png?r=lkt" width="400" alt="Samandar Odilboyev's Dev Card"/></a> <br> <br>
