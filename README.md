@@ -8,7 +8,7 @@
 
 <h2> I'm a Software Engineer from Uzbekistan. </h2>
 <br>
- - 🔭 Self employed </b><br>
+ - 🔭  3 yrs in JS </b><br>
 <!--     - 🌱 Currently <b> self-employed </b><br> -->
     - ✌ See my latest works on my <a href="https://t.me/webius_portfolio">portfolio</a>
 <!-- - 🤝 Looking to collaborate on team of NextJS, ReactJS, ... <br> -->
