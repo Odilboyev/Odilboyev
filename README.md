@@ -39,10 +39,7 @@ A passionate JavaScript developer with 3 years of experience, specializing in mo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto@samandar.us)
 
 ## 🏆 Dev Card
-
-<a href="https://app.daily.dev/webius">
-  <img src="https://api.daily.dev/devcards/16b2875896a64b6b953c757ec934d0d5.png?r=lkt" width="400" alt="Samandar Odilboyev's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/samandarzarif"><img src="https://api.daily.dev/devcards/v2/ksedEzEeNNe9qUcG0KOp3.png?r=dhl" width="356" alt="Samandar Odilboyev's Dev Card"/></a>
 
 ## 📈 Profile Views
 
