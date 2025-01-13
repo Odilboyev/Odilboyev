@@ -29,7 +29,7 @@ A passionate JavaScript developer with 3 years of experience, specializing in mo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=odilboyev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilboyev&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilboyev&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 ## 🌐 Connect With Me
