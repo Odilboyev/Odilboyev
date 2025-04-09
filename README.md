@@ -9,6 +9,8 @@ A passionate JavaScript developer with 3 years of experience, specializing in mo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2E5984?style=for-the-badge&logo=node.js&logoColor=green)
+![Express.js](https://img.shields.io/badge/Express.js-FFC067?style=for-the-badge&logo=express.js&logoColor=orange)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +47,3 @@ A passionate JavaScript developer with 3 years of experience, specializing in mo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=webius&color=blueviolet&style=flat-square)
 
----
-
-*Crafted with ❤️ by Samandar Odilboyev*
